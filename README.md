@@ -18,6 +18,7 @@ A `requirements.txt` is provided as a fallback for use with `pip` or Anaconda.
 ## Running an experiment
 
 For experiments with backbone-shadow defense framework, you could run:
+
 `python backdoor_attack_and_defense.py`
 
 The hyperparameters are detailed in `backdoor_attack_and_defense.py`.
