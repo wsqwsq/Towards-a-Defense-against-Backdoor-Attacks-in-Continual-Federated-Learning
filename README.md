@@ -22,4 +22,4 @@ python backdoor_attack_and_defense.py
 
 The hyperparameters are detailed in `backdoor_attack_and_defense.py`.
 
-The files related to experiment are stored in the directory `output/`.
+The files related to experiments are stored in the directory `output/`.
